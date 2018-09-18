@@ -1,3 +1,7 @@
+# Project moved to github.com/sanctuary/formats
+
+This project has been superseded by [sanctuary/formats](https://github.com/sanctuary/formats).
+
 # blizzconv
 
 [![Build Status](https://travis-ci.org/mewrnd/blizzconv.svg?branch=master)](https://travis-ci.org/mewrnd/blizzconv)
